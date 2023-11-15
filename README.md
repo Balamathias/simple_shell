@@ -1,4 +1,4 @@
-## This is my simple shell project built with the C programming language.
+## This is our simple shell project built with the C programming language.
 
 Testing my knowledge on the grab of major C concepts like:
 
